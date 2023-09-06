@@ -5,4 +5,3 @@ Internship Project. Made with Unity.
 Video game designed to use AI to understand player behavior through a series of moral choices.
 ![merch game](https://github.com/Kuriboss/TheMerchant/assets/78835067/5d8b4c71-94d9-4337-a404-45f09cfaabcd)
 
-![merch](https://github.com/Kuriboss/TheMerchant/assets/78835067/c37a916c-2fb4-4958-92a1-59491d07a993)
